@@ -990,7 +990,7 @@
       "message": "Burundi"
    },
    "_Business": {
-      "message": "Business"
+      "message": "商业"
    },
    "_Buy__Premium": {
       "message": "Buy Premium"
@@ -1296,7 +1296,7 @@
       "message": "Congratulations! You've been invited to LastPass Families by %0%0, giving you access to unlimited family sharing and other easy to use security features. %1Learn more%1"
    },
    "_Congratulations___Your_password_for__s_was_updated__and_is_now_saved_in_your__Last_Pass_vault___Your_change_will_sync_on_every_device_": {
-      "message": "Success! Your password for this site has been updated and saved to your vault: %s. The new password is available anywhere you use LastPass."
+      "message": "成功!您在此网站的密码已更新并保存到您的Vault:%s。新密码可以在任何使用LastPass的地方使用。"
    },
    "_Congratulations____You_re_one_password_closer_to_being_secure_on_the_internet____Your_password_has_been_changed__and_is_now_updated_through_your__Last_Pass_vault_on_every_device_": {
       "message": "Congratulations! This password has been changed and made available in your LastPass vault on all of your devices."
@@ -2088,7 +2088,7 @@
       "message": "Enterprise admin console"
    },
    "_Entertainment": {
-      "message": "Entertainment"
+      "message": "娱乐"
    },
    "_Equatorial__Guinea": {
       "message": "Equatorial Guinea"
@@ -2136,10 +2136,10 @@
       "message": "Existing Shares:"
    },
    "_Expand": {
-      "message": "Expand"
+      "message": "展开"
    },
    "_Expand__All": {
-      "message": "Expand All"
+      "message": "全部展开"
    },
    "_Expiration": {
       "message": "Expiration"
@@ -2442,7 +2442,7 @@
       "message": "France"
    },
    "_Free__User": {
-      "message": "Free User"
+      "message": "免费用户"
    },
    "_Free__daily_credit_monitoring___Get_notified_of_events_and_protect_yourself_from_identity_theft__with_no_impact_on_your_credit_score_": {
       "message": "免费的每日信用监控。获得事件通知，保护自己免受身份盗窃，不会影响您的信用评分。"
@@ -4071,7 +4071,7 @@
       "message": "Newfoundland and Labrador"
    },
    "_News__Reference": {
-      "message": "News/Reference"
+      "message": "新闻/参考"
    },
    "_Next": {
       "message": "Next"
@@ -4821,7 +4821,7 @@
       "message": "Private Key"
    },
    "_Productivity__Tools": {
-      "message": "Productivity Tools"
+      "message": "生产力工具"
    },
    "_Profile": {
       "message": "Profile"
@@ -5742,7 +5742,7 @@
       "message": "Slovenia"
    },
    "_Social": {
-      "message": "Social"
+      "message": "社交"
    },
    "_Social__Security": {
       "message": "Social Security"
