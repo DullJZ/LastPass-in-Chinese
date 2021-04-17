@@ -1,5 +1,11 @@
 import os
 import wget
+print(r'''================
+作者：DullJZ
+博客：http://dulljzblog.jz-home.top
+LastPass汉化文章：https://dulljzblog.jz-home.top/2021/02/18/汉化日记--汉化LastPass/
+================
+''')
 ID = ['bbcinlkgjjkejfdpemiealijmmooekmp', 'hdokiejnpimakedhajhdlcegeplioahd']
 browser = [
     'Microsoft\\Edge', 'Microsoft\\Edge Beta', 'Microsoft\\Edge Dev',
